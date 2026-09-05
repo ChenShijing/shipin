@@ -365,4 +365,4 @@
 4.8 每日门店销售额实时统计:https://edu.tipdm.org/hls/23144/playlist/9b2de288d0d711eaa28300163e08b66a.m3u8
 4.9 每日商品销量实时统计:https://edu.tipdm.org/hls/23086/playlist/a40ec822d0d711eaa0c200163e08b66a.m3u8
 5.1 项目总结:https://edu.tipdm.org/hls/23087/playlist/b09bbaf0d0d711eaa56c00163e08b66a.m3u8
-5.1 测试总结
+5.2 测试总结
